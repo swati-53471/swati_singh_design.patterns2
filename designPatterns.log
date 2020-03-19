@@ -1,0 +1,42 @@
+2020-03-09 18:49:46 INFO  SingletonEmployee:22 - Employee database updated
+2020-03-19 15:10:37 INFO  Rectangle:12 - Inside Rectangle::draw() method.
+2020-03-19 15:10:37 INFO  Square:11 - Inside Square::draw() method.
+2020-03-19 15:10:37 INFO  RoundedRectangle:12 - Inside RoundedRectangle::draw() method.
+2020-03-19 15:10:37 INFO  RoundedSquare:12 - Inside RoundedSquare::draw() method.
+2020-03-19 15:30:15 INFO  BasicCar:10 - Basic car created
+2020-03-19 15:30:15 INFO  BasicCar:17 -  Decorating Sports Car.
+2020-03-19 15:30:15 INFO  BasicCar:10 - Basic car created
+2020-03-19 15:30:15 INFO  BasicCar:16 -  Decorating Luxury Car.
+2020-03-19 15:30:15 INFO  BasicCar:17 -  Decorating Sports Car.
+2020-03-19 15:48:37 INFO  Triangle:14 - Triangle filled with color 
+2020-03-19 15:48:37 INFO  Triangle:15 - Square filled with color 
+2020-03-19 16:27:05 INFO  IteratorTest:15 - Frequency=98.5, Type=ENGLISH
+2020-03-19 16:27:05 INFO  IteratorTest:15 - Frequency=99.5, Type=HINDI
+2020-03-19 16:27:05 INFO  IteratorTest:15 - Frequency=100.5, Type=FRENCH
+2020-03-19 16:27:05 INFO  IteratorTest:15 - Frequency=101.5, Type=ENGLISH
+2020-03-19 16:27:05 INFO  IteratorTest:15 - Frequency=102.5, Type=HINDI
+2020-03-19 16:27:05 INFO  IteratorTest:15 - Frequency=103.5, Type=FRENCH
+2020-03-19 16:27:05 INFO  IteratorTest:15 - Frequency=104.5, Type=ENGLISH
+2020-03-19 16:27:05 INFO  IteratorTest:15 - Frequency=105.5, Type=HINDI
+2020-03-19 16:27:05 INFO  IteratorTest:15 - Frequency=106.5, Type=FRENCH
+2020-03-19 16:27:05 INFO  IteratorTest:20 - Frequency=98.5, Type=ENGLISH
+2020-03-19 16:27:05 INFO  IteratorTest:20 - Frequency=101.5, Type=ENGLISH
+2020-03-19 16:27:05 INFO  IteratorTest:20 - Frequency=104.5, Type=ENGLISH
+2020-03-19 16:28:12 INFO  IteratorTest:15 - Frequency=98.5, Type=ENGLISH
+2020-03-19 16:28:12 INFO  IteratorTest:15 - Frequency=99.5, Type=HINDI
+2020-03-19 16:28:12 INFO  IteratorTest:15 - Frequency=100.5, Type=FRENCH
+2020-03-19 16:28:12 INFO  IteratorTest:15 - Frequency=101.5, Type=ENGLISH
+2020-03-19 16:28:12 INFO  IteratorTest:15 - Frequency=102.5, Type=HINDI
+2020-03-19 16:28:12 INFO  IteratorTest:15 - Frequency=103.5, Type=FRENCH
+2020-03-19 16:28:12 INFO  IteratorTest:15 - Frequency=104.5, Type=ENGLISH
+2020-03-19 16:28:12 INFO  IteratorTest:15 - Frequency=105.5, Type=HINDI
+2020-03-19 16:28:12 INFO  IteratorTest:15 - Frequency=106.5, Type=FRENCH
+2020-03-19 16:28:12 INFO  IteratorTest:17 - ***********
+2020-03-19 16:28:12 INFO  IteratorTest:21 - Frequency=98.5, Type=ENGLISH
+2020-03-19 16:28:12 INFO  IteratorTest:21 - Frequency=101.5, Type=ENGLISH
+2020-03-19 16:28:12 INFO  IteratorTest:21 - Frequency=104.5, Type=ENGLISH
+2020-03-19 16:35:11 INFO  WoodenHouse:15 - Building Pillars with Wood coating
+2020-03-19 16:35:11 INFO  WoodenHouse:10 - Building Wooden Walls
+2020-03-19 16:35:11 INFO  WoodenHouse:14 - ************
+2020-03-19 16:35:11 INFO  WoodenHouse:16 - Building Pillars with glass coating
+2020-03-19 16:35:11 INFO  WoodenHouse:11 - Building Glass Walls
